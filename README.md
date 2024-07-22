@@ -20,17 +20,6 @@ http://curatingmenus.org/data_dictionary/
 
 ### Menu
 - `id` in `Menu` must be unique
-- `sponsor` in `Menu` must be a string
-- `event` in `Menu` must be a string
-- `venue` in `Menu` must be a string
-- `place` in `Menu` must be a string
-- `physical_description` in `Menu` must be a string
-- `occasion` in `Menu` must be a string
-- `notes` in `Menu` must be a string
-- `call_number` in `Menu` must be a string
-- `location` in `Menu` must be a string
-- `currency` in `Menu` must be a string
-- `status` in `Menu` must be a string
 - `page_count` in `Menu` must be equal to the number of pages in the menu
 - `dish_count` in `Menu` must be equal to the number of dishes in the menu
 - `date` in `Menu` contains no data unfortunately
